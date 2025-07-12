@@ -1,0 +1,20 @@
+{
+  "employees": [
+    {
+      "id": 101,
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alice.johnson@example.com",
+      "department": "Engineering",
+      "role": "Developer"
+    },
+    {
+      "id": 102,
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "email": "bob.smith@example.com",
+      "department": "Design",
+      "role": "UX Designer"
+    }
+  ]
+}
